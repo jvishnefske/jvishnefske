@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Progressive Web Apps
 - 👯 I’m looking to collaborate on novel, and non-obvious remote sensing techniques
 
-See also: [https://jvishnefske.github.io|My github pages]
+See also: [my github pages](https://jvishnefske.github.io)
