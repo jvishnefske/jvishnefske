@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Embeded devices, and driver test software
-- 🌱 I’m currently learning Progressive Web Apps
+- 🌱 I’m currently learning low latency middleware methods.
 - 👯 I’m looking to collaborate on novel, and non-obvious remote sensing techniques
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ... Avionics
