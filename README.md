@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # jvishnefske
 
 - 🔭 I’m currently working on Embeded devices, and driver test software
-- 🌱 I’m currently low latency middleware methods.
+- 🌱 I’m currently learning low latency middleware methods.
 - 👯 I’m looking to collaborate on novel, and non-obvious remote sensing techniques
 
 See also: [my github pages](https://jvishnefske.github.io)
